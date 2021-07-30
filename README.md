@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **JoshHall1991@gmail.com**
 
-- 📄 Know about my experiences [https://www.joshhall.me/static/media/Josh_Hall_Resume.a325b925.pdf](https://www.joshhall.me/static/media/Josh_Hall_Resume.a325b925.pdf)
+- 📄 Know about my [experiences](https://www.joshhall.me/static/media/Josh_Hall_Resume.a325b925.pdf)
 
 - ⚡ Fun fact **I have a Goldendoodle named Murphie who recently chewed on some of my baseboard. As of right now, I have not disowned her. Ask me in another week though.**
 
