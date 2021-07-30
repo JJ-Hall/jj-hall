@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, JavaScript, and postgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://www.joshhall.me/projects](https://www.joshhall.me/projects)
+- 👨‍💻 All of my projects are available at [https://www.joshhall.me/](https://www.joshhall.me/projects)
 
 - 💬 Ask me about **my experience implementing technology into education.**
 
